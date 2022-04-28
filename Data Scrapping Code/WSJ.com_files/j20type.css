@@ -1,0 +1,167 @@
+BODY, TD, INPUT, P, .arial, .arialSeven, .arialTen, .arialWhiteThirteen, .arialFourteen, .arialWhiteThirteenBold, .arialResize, a.arialResize, .arialResizesm, .arialInner, .headSum, .briefs, .elevenpxArial, .moduleTitle, .moduleLink, .awtb, .BreakingNewsHeadline, .pb24, .BreakingNewsText, .pb14darkRed, .fcl, .fci, .hkl, .hki, .pb18 {font-family: Arial, Helvetica, Verdana, sans-serif;}
+BLOCKQUOTE, .times, .t, .art, .timesTen, .t10, .t12, .tb12, .tb13, .t14, .tb14, .t15, .t16, .tb16, .t18, .tb18, .tb19, .tb20, .tb22, .tb24, .timesTwelve, .timesBoldTwelve, .timesBoldThirteen, .timesFourteen, .timesBoldFourteen, .timesSixteen, .timesBoldSixteen, .timesBoldPumpkinSixteen, .timesBoldSixteenHigh, .timesEighteen, .boldEighteenTimes, .boldNineteenTimes, .boldTwentyTimes, .boldTimes22, .boldTwentyFourTimes, .article, .articleTitle, .articleHighLine, .newstxt, .articleBoldHighLine, .articleTitleHighLine, .timesEighteenHighLine, .aTime, .redTimesFourteen {font-family: times new roman, times, serif;}
+.georgia, .gb14, .g17, a.g17:link, a.g17:visited, a.g17:active {font-family: georgia, times new roman, times, serif;}
+.arialSeven {font-size: 7px;}
+.plnNine, .p9, .boldGreyNine, .greyNine, .lightGreyNine {font-size: 9px;}
+.plnTen, .p10, .t10, .b10, .timesTen, .arialTen, .boldTen, .greyTen, .greyTenLnk, .changePosTen, .changeNegTen, .lightGreyTen, .source, a.greyTenLnk:link, a.greyTenLnk:visited, a.greyTenLnk:hover, a.greyTenLnk:active, a.greyTen:link, a.greyTen:visited, a.greyTen:hover, a.greyTen:active, a.source:link, a.source:visited, a.source:hover, a.source:active {font-size: 10px;}
+.plnEleven, .p11, .pb11, .b11, .p11darkRed, .plnElevenComp, .plnElevenCompMore, .boldEleven, .boldGreyEleven, .changePos, .changeNeg, .noChange, .greyEleven, .lightGreyEleven, .salmonEleven, .elevenpxArial, .moduleLink, .pec, a.plnElevenUnderline, .aTime, .adli, a.blackBoldEleven:link, a.blackBoldEleven:visited, a.blackBoldEleven:hover, a.blackBoldEleven:active, a.pb11w:link, a.pb11w:hover, a.pb11w:active, a.pb11w:visited {font-size: 11px;}
+.plnTwelve, .p12, .pb12, .b12, .t12, .tb12, .timesTwelve, .timesBoldTwelve, .boldTwelve, .boldGreyTwelve, .boldRustTwelve, .greyTwelve, .rustTwelve, .boldDarkMaroon, .BreakingNewsText, a.greyTwelve:link, a.greyTwelve:visited, a.greyTwelve:hover, a.greyTwelve:active, a.blackBoldTwelve:link, a.blackBoldTwelve:visited, a.blackBoldTwelve:hover, a.blackBoldTwelve:active, .hKeepS, .hKeepL, a.hKeepL:hover, a.hKeepL:active, a.hKeepL:link, a.hKeepL:visited, .fcl, .fci, .hkl, .hki, .adll {font-size: 12px;}
+.plnThirteen, .p13, .b13, .tb13, .plnThirteenComp, boldThirteen, .timesBoldThirteen, .arialWhiteThirteen, .arialWhiteThirteenBold, .boldThirteen, .boldGreyThirteen, .boldLightGreyThirteen, .greyThirteen, .briefs, .awtb, .moduleTitle, a.boldThirteen:link, a.boldThirteen:visited, a.blackBoldThirteen:link, a.blackBoldThirteen:visited, a.blackBoldThirteen:hover, a.blackBoldThirteen:active {font-size: 13px;}
+.plnFourteen, .gb14, .p14, .b14, .t14, .tb14, .timesFourteen, .timesBoldFourteen, .boldFourteen, .BoldFourteen, .boldPumpkinFourteen, .BreakingNewsHeadline, .arialFourteen, .pb14darkRed {font-size: 14px;}
+.p15, .t15 {font-size: 15px;}
+.timesSixteen, .p16, .t16, .b16, .tb16, .timesBoldSixteen, .timesBoldSixteenHigh, .boldSixteen, .boldBlueSixteen, .boldRedSixteen, .boldPumpkinSixteen, .timesBoldPumpkinSixteen {font-size: 16px;}
+.g17, a.g17:link, a.g17:hover, a.g17:visited, a.g17:active {font-size: 17px;}
+a.g17:link, a.g17:visited, a.g17:active {color: #FF6600;}
+.timesEighteen, .t18, .tb18, .boldEighteenTimes, .timesEighteenHighLine, .pb18, .p18 {font-size: 18px;}
+.boldNineteenTimes, .tb19 {font-size: 19px;}
+.plnTwenty, .p20, .boldTwentyTimes, .tb20, .p20Padded {font-size: 20px;}
+.p21Padded {font-family: arial; font-size: 21px; color: #0253B7;}
+.p14Padded {font-family: arial; font-size: 14px; color: #0253B7;}
+.boldTimes22, .tb22, .b22, .p22 {font-size: 22px;}
+.boldTwentyThree, .b23 {font-size: 23px;}
+.boldTwentyFourTimes, .articleTitle, .articleTitleHighLine, .pb24, .tb24, .p24 {font-size: 24px;}
+.p28 {font-size: 28px;}
+.aTime {line-height: normal;}
+.articleTitleHighLine {line-height: 25px;}
+.p70, .arialResizesm, .pln70, .bold70, .grey70 {font-size: 70%;}
+.p75, .pln75, .bold75, .ArtFlashline {font-size: 75%;}
+.p80, .arialResize, a.arialResize, .pln80, .bold80 {font-size: 80%;}
+.p90, .pln90, .bold90 {font-size: 90%;}
+.p100, .pln100, .bold100 {font-size: 100%;}
+.pntsevenem {font-size: .7em;}
+.pntsevenfiveemBold, .pntsevenfiveem {font-size: .75em;}
+.aTime {font-style: italic;}
+.article, .art, .pln70, .bold70, .grey70, .pln75, .bold75, .pln80, .bold80, .pln90, .bold90, .pln100, .bold100, .p70, .p75, .p80, .p90, .p100 {font-style: normal;}
+.plnElevenComp, .pec {line-height: 12px;}
+.plnElevenCompMore {line-height: 13px;}
+.plnThirteenComp, .redFourteen {line-height: 14px;}
+.articleHighLine, .articleBoldHighLine {line-height: 22px;}
+.p20Padded {padding-bottom: 8px; line-height: 20px;}
+.p21Padded {padding-bottom: 8px; line-height: 21px;}
+.p14Padded {padding-top: 0px; padding-bottom: 8px; line-height: 14px;}
+.timesEighteenHighLine {line-height: 30px;}
+.timesBoldSixteenHigh {line-height: 52px;}
+.bold, .timesBoldTwelve, .timesBoldThirteen, .timesBoldFourteen, .pb24, .timesBoldSixteen, .timesBoldSixteenHigh, .arialWhiteThirteenBold, .boldTen, .boldEleven, .boldTwelve, .boldThirteen, .boldFourteen, .boldSixteen, .boldEighteenTimes, .boldNineteenTimes, .boldTwentyTimes, .boldTwentyThree, .boldTimes22, .boldTwentyFourTimes, .boldGreyNine, .boldGreyEleven, .boldGreyTwelve, .boldRustTwelve, .boldGreyThirteen, .boldLightGreyThirteen, .boldBlueSixteen, .boldRedSixteen, .boldPumpkinFourteen, .boldPumpkinSixteen, .boldDarkMaroon, .boldRed, a.arialResize, .headSum, .articleTitle, a.newstxt, .moduleTitle, .articleBoldHighLine, .pntsevenfiveemBold, .awtb, .BreakingNewsHeadline, .BreakingNewsText, .bold70, .bold75, .bold80, .bold90, .bold100, a.blackBoldTwelve:link, a.blackBoldTwelve:visited, a.blackBoldTwelve:hover, a.blackBoldTwelve:active, .otherJsites, a.blackBoldThirteen:link, a.blackBoldThirteen:visited, a.blackBoldThirteen:hover, a.blackBoldThirteen:active, .pb11, .pb12, .tb12, .tb13, .tb14, .tb16, .b10, .b11, .b12, .b13, .b14, .pb14darkRed, .b16, .tb18, .tb19, .tb20, .b23, .tb22, .tb24, .hKeepS, .hkl, a.blackBoldEleven:link, a.blackBoldEleven:visited, a.blackBoldEleven:hover, a.blackBoldEleven:active, a.pb11w:link, a.pb11w:hover, a.pb11w:active, a.pb11w:visited, .gb14, .pb18 {font-weight: bold;}
+.arialInner, .moduleLink {font-weight: normal;}
+.black, .moduleTitle, .elevenpxArial, .briefs, .BreakingNewsText, .noChange, .source, a.blackBoldTwelve:link, a.blackBoldTwelve:visited, a.blackLink:link, a.blackLink:visited, a.blackBoldThirteen:link, a.blackBoldThirteen:visited, a.source:link, a.source:visited, .fcl, .fci, a.blackBoldEleven:link, a.blackBoldEleven:visited, a.blackBoldEleven:hover, a.blackBoldEleven:active {color: #000;}
+A:visited {color: #066;}
+.headSum, .moduleLink {color: #06C;}
+.green, .changePos, .changePosNoSize, .changePosTen {color: #096;}
+A:link, a.unvisited:link, a.unvisited:visited, a.boldThirteen:link, a.boldThirteen:visited {color: #0253b7;}
+.boldBlueSixteen, .otherJsites {color: #369;}
+.boldDarkMaroon {color: #600;}
+.rustTwelve, .boldRustTwelve, .rust {color: #603;}
+.grey70, .greyNine, .greyTen, .greyEleven, .greyTwelve, .greyThirteen, .boldGreyThirteen, a.greyTwelve:link, a.greyTwelve:visited, a.greyTwelve:hover, a.greyTwelve:active, a.greyTenLnk:link, a.greyTenLnk:visited, a.greyTenLnk:active, a.greyTen:link, a.greyTen:visited, a.greyTen:hover, a.greyTen:active, .aTime {color: #666;}
+.boldRedSixteen, .redTimesFourteen, .BreakingNewsHeadline, .darkRed, .p11darkRed, .pb14darkRed {color: #900;}
+.boldRed, .red {color: #A00;}
+.lightGreyEleven, .lightGreyTen, .lightGreyNine, .boldGreyNine, .boldGreyEleven, .boldGreyTwelve, .boldLightGreyThirteen {color: #999;}
+.salmonEleven {color: #BE7878;}
+.changeNeg, .changeNegNoSize, .changeNegTen, .brightRed {color: #F00;}
+.pumpkin, .boldPumpkinFourteen, .boldPumpkinSixteen, .timesBoldPumpkinSixteen, A:hover, A:active, a.blackBoldTwelve:hover, a.blackBoldTwelve:active, a.blackLink:hover, a.blackLink:active, a.whiteLink:hover, a.whiteLink:active, a.boldThirteen:hover, a.blackBoldThirteen:hover, a.blackBoldThirteen:active, a.source:hover, a.source:active, a.greyTenLnk:hover, a.greyTenLnk:active, a.unvisited:hover, a.unvisited:active, a.pumpkinIndex:link, a.pumpkinIndex:active, a.pumpkinIndex:visited {color: #222;}
+.darkPumpkin {color: #F63;}
+.white, .awtb, .arialWhiteThirteen, .arialWhiteThirteenBold, a.whiteLink:link, a.whiteLink:visited, .hKeepL, a.pb11w:link, a.pb11w:active, a.pb11w:visited, a.hKeepL:hover, a.hKeepL:active, a.hKeepL:link, a.hKeepL:visited, .hki, a.hki:hover, a.hki:active, a.hki:link, a.hki:visited {color: #FFF;}
+a.pb11w:hover {color: #FCF5D0}
+.hKeepS, .hkl {color: #D3D7A0;}
+A:link, A:visited, A:active, .headSum, .moduleLink, .moduleTitle, a.boldThirteen:link, a.boldThirteen:hover, a.boldThirteen:visited, a.greyTwelve:link, a.greyTwelve:visited, a.greyTwelve:hover, a.greyTwelve:active,  a.greyTenLnk:link, a.greyTenLnk:visited, a.greyTenLnk:hover, a.greyTenLnk:active, a.greyTen:link, a.greyTen:visited, a.greyTen:hover, a.greyTen:active, a.blackBoldTwelve:link, a.blackBoldTwelve:visited, a.blackLink:link, a.blackLink:visited, a.whiteLink:link, a.whiteLink:visited, a.boldThirteen:link, a.boldThirteen:visited, a.blackBoldThirteen:link, a.blackBoldThirteen:visited, a.source:link, a.source:visited, a.unvisited:link, a.unvisited:visited, .aTime, a.blackBoldEleven:link, a.blackBoldEleven:visited, a.blackBoldEleven:hover, a.blackBoldEleven:active, a.pb11w:link, a.pb11w:hover, a.pb11w:active, a.pb11w:visited, a.g17:link, a.g17:active, a.g17:visited {text-decoration: none;}
+A:hover, a.plnElevenUnderline, a.plnTenUnderline, a.blackBoldTwelve:hover, a.blackBoldTwelve:active, a.blackLink:hover, a.blackLink:active, a.whiteLink:hover, a.whiteLink:active, a.blackBoldThirteen:hover, a.blackBoldThirteen:active, a.source:hover, a.source:active, a.unvisited:hover, a.unvisited:active, a.g17:hover, a.g17:active {text-decoration: underline;}
+.fc, .fci, .adli {background: #eee;}
+.fcl, .adll {background: #C9D9E9;}
+.fc, .fcl, .fci, .hkl, .hki, .hk, .adl, .adll {margin: 0;}
+.fc, .hk, .adl {padding: 0;}
+.fcl, .fci {padding: 1px 0px 1px 7px;}
+.hki, .hkl {padding: 0px 0px 1px 7px;}
+.adll {padding: 1px 0px 1px 0px;}
+.adli {padding: 1px 1px 1px 6px;}
+.adli {margin: 4px 0px 0px 1px;}
+.hk {width: 131px;}
+.adl {width: 130px;}
+.fci {border-top:1px solid #fff;}
+.fcl {border-top:20px solid #fff;}
+.adli {border:1px solid #ccc;}
+.hki, .hkl {border-top:1px solid #AEBCD0;}
+.hkl {background: #5E81AB;}
+.hki {background: #7D9BC0;}
+.adll {text-align: center;}
+.bb1ccc {border-bottom:1px solid #ccc;}
+.bb19cc {border-bottom:1px solid #9cc;}
+.g17 {background: #fff;}
+.clearer {clear:both;height:1px;overflow:hidden;}
+.hidden{display:none;}
+.rolloverSummary {position:absolute;display:block;border:1px solid #f17000;background: #e1eaf3;width:304px;padding:10px 10px 10px 10px;}
+
+.decoClearer:after {content: ".";display: block;height: 0px;clear: both;visibility: hidden;}
+.decoClearer {display: inline-block;}
+/* Hides from IE-mac \*/
+* html .decoClearer {height: 1px;}
+.decoClearer {display: block;}
+/* End hide from IE-mac */
+
+form {padding:0px;margin:0px;}
+
+/* new styles for images */
+.medcpthed {font-family: Arial, Helvetica, sans-serif;font-size:11px;color:#999;text-align:center;padding-top:0px;line-height:12px}
+.medcptcrd {font-family: Arial, Helvetica, sans-serif;font-size:11px;color:#990000;padding:1px 0px 0px 0px;}
+.medcptnocrd {font-family: Arial, Helvetica, sans-serif;font-size:11px;color:#990000;padding:4px 0px 5px 0px;}
+.medcrd {font-family: Arial, Helvetica, sans-serif;font-size:9px;color:#999;text-align:right;padding:0px;}
+.imglftins {padding:0px;margin-right:7px;margin-top:4px;}
+img.imglftins {margin-right: 10px;}
+.imglftbdy {padding:0px;margin-right:12px}
+img.imglftbdy {margin-right: 15px;}
+.imglftsum {padding:0px;margin-right:6px;margin-top:3px;}
+img.imglftsum {margin-right: 9px;}
+.imgrgtins {padding:0px;margin-left:7px;margin-top:4px;}
+img.imgrgtins {margin-left: 10px;}
+.imgrgtbdy {padding:0px;margin-left:12px;}
+img.imgrgtbdy {margin-left:15px;}
+.imgrgtsum {padding:0px;margin-left:6px;margin-top:3px;}
+img.imgrgtsum {margin-left: 9px;}
+.imgnonins {padding:0px;margin:4px 0px 4px 0px;}
+.imgnonbdy {padding:0px;margin:4px 3px 4px 0px;}
+.imgnonsum {padding:0px;margin:3px 3px 0px 0px;}
+.imglfthed {padding:5px;margin-right:12px;margin-top:3px;border:1px solid #999;}
+.imgrgthed {padding:5px;margin-left:12px;margin-top:3px;border:1px solid #999;}
+.imgnonhed {padding:5px;margin:4px 3px 4px 0px;border:1px solid #999;}
+.imgitboxLEFT {padding-right:3px;}
+.imgitboxNONE {padding:0px;}
+.imgitboxRIGHT {padding-left:3px;}
+
+.wnlistitem { padding:0 0 2px 9px; }
+
+#MEDPAGEOLDA {font-size: 9px; font-weight: bold; color: #999; text-align: center; padding-bottom: 2px;}
+#MEDPAGEOLDB {width: 100%; padding: 0px; margin: 0px; background-position: 0% 0%; border-style: none; background-image: url(http://s.wsj.net/public/resources/images/MedPageTopOld_B05242005163330.gif); background-repeat: repeat-x; }
+#MEDPAGEOLDC {width: 100%; margin-bottom: 0px; margin-left: 3px; margin-right: 0px; margin-top: 0px; padding-top: 3px; padding-bottom: 2px; padding-left: 3px; background: #DBE9F4;}
+#MEDPAGEOLDD {width: 100%; padding: 0px; margin: 0px;  background-position: 0% 0%; border-style: none; background-image: url(http://s.wsj.net/public/resources/images/MedPageBottomOld_B05242005163330.gif);   background-repeat: repeat-x; padding-bottom: 3px; }
+
+.row1t{color:#666666;padding-top:0px;padding-bottom:8px;}
+.row1d{padding-bottom:20px;}
+.changeP{color:#008000;} 
+.changeN{color:#FF0000;}
+
+/* Round corner border*/
+.rctop, .rcbottom {display:block; background:transparent; font-size:1px;}
+.rcb1, .rcb2, .rcb3, .rcb4 {display:block; overflow:hidden;}
+.rcb1, .rcb2, .rcb3 {height:1px;}
+.rcb2, .rcb3, .rcb4 {border-left:1px solid #08c; border-right:1px solid #08c;}
+.rcb1 {margin:0 5px; background:#08c;}
+.rcb2 {margin:0 3px; border-width:0 2px;}
+.rcb3 {margin:0 2px;}
+.rcb4 {height:2px; margin:0 1px;}
+.rcboxcontent {display:block;border:0 solid #08c; border-width:0 1px;padding:13px 20px 15px 20px;}
+
+
+/* used in left nav */
+.submenu_showurl {padding:1px 0px 2px 7px;background-color:#EFEFEF;border-bottom:1px solid #fff;margin:0px;color:#000;}
+.submenu_noShowurl {padding:1px 0px 2px 7px;background-color:#EFEFEF;border-bottom:1px solid #fff;margin:0px;color: #F93;}
+.menu_selected {padding:0px;border-bottom:1px solid #efefef;background-color:#369;margin:0px;color:#f00;}
+.menu_noSelected {padding:0px;border-bottom:1px solid #efefef;background-color:#369;margin:0px;color:#0253B7;}
+
+.nobr { white-space:nowrap; }
+
+/* used in SponseredLinks */
+.adWrapper{ padding: 0px; over-flow: hidden;border: 1px solid #58A5E0;}
+.adTitleBox{ font-family: Arial, sans-serif; font-size: 11px; font-weight:bold; padding:4px 0px 4px 4px;border-bottom: 1px solid #58A5E0; text-align:left;}
+.adExplanation{	font-family: Arial, sans-serif; font-size: 10px; font-style: normal; text-decoration:none; vertical-align:middle;}
+.adDefTitleWrapper {background-color: #EFEFEF;}
+.adTitleWrapper{ color: #FFF; background-image: url('http://s.wsj.net/img/adLinksHeaderPixSlice.gif');background-repeat: repeat-x;}
+.adTitleWrapper a.adExplanation, .adTitleWrapper a.adExplanation:hover, .adTitleWrapper a.adExplanation:visited { color:#FFF; }	
+.adNarrowTitleStyle{ background-color: #EFEFEF; }
